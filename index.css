@@ -1,0 +1,41 @@
+
+body
+{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+
+
+
+
+
+.hobbies-div
+{
+    background-color: #A3E4DB;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    width: 60%;
+    height: 80%;
+    padding: 20px 40px;
+    border-radius: 12px;
+}
+.hobbies-anchor
+{
+    padding: 10px 30px;
+    margin: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-family:inherit;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.hobbies-link
+{
+    padding: 10px 30px;
+    margin: 10px 20px;
+    display: inline-block;
+}
